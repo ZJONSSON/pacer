@@ -1,0 +1,16 @@
+{
+  "name": "pacer",
+  "version": "1.0.0",
+  "description": "US courts scraper and eventEmitter",
+  "main": "index.js",
+  "author": "Ziggy Jonsson (ziggy.jonsson.nyc@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.2.2",
+    "cheerio": "^0.20.0",
+    "etl": "^0.3.3",
+    "express": "^4.13.4",
+    "node-expat": "^2.3.13",
+    "request": "^2.69.0"
+  }
+}
